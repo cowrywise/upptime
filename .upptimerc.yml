@@ -5,16 +5,23 @@ repo: uptime # The name of this repository
 sites:
   - name: Cowrywise Website
     url: https://www.cowrywise.com
+    icon: https://cowrywise.com/favicon.png
   - name: Cowrywise Dashboard
     url: https://my.cowrywise.com
+    icon: https://cowrywise.com/favicon.png
   - name: Cowrywise Badges Page
     url: https://cowrywise.com/@othreecodes/badges/savings-score
+    icon: https://cowrywise.com/favicon.png
   - name: Cowrywise Circles
     url: https://cowrywise.com/circles/challenges
+    icon: https://cowrywise.com/favicon.png
   - name: Cowrywise Round Up
     url: https://2020.cowrywise.com
+    icon: https://cowrywise.com/favicon.png
   - name: Cowrywise Blog
     url: https://www.cowrywise.com/blog/
+    icon: https://cowrywise.com/favicon.png
+
     
 assignees: 
   - othreecodes
@@ -27,7 +34,7 @@ status-website:
   logoUrl: https://avatars.githubusercontent.com/u/53002175?s=300&v=4
   name: Uptime
   introTitle: Cowrywise (YC S18) creates personal wealth management tools for Africans.
-  introMessage: This is a status page uses **real-time** data from our [GitHub repository](https://github.com/Cowrywise/uptime).
+  introMessage: This status page uses **real-time** data from our [GitHub repository](https://github.com/Cowrywise/uptime).
   navbar:
     - title: Status
       href: /
