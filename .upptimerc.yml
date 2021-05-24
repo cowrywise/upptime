@@ -23,7 +23,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
-  baseUrl: https://github.com/cowrywise/uptime
+  baseUrl: /uptime
   logoUrl: https://firebasestorage.googleapis.com/v0/b/cowrywise.appspot.com/o/avatars%2Fc5a7a473c37c42b394009b58396ccf8f.png?alt=media&token=20cf9793-81b1-4455-bf68-932ffabdc7f1
   name: Uptime
   introTitle: Cowrywise (YC S18) creates personal wealth management tools for Africans.
