@@ -24,15 +24,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://firebasestorage.googleapis.com/v0/b/cowrywise.appspot.com/o/avatars%2Fc5a7a473c37c42b394009b58396ccf8f.png?alt=media&token=20cf9793-81b1-4455-bf68-932ffabdc7f1
+  logoUrl: https://avatars.githubusercontent.com/u/53002175?s=300&v=4
   name: Uptime
   introTitle: Cowrywise (YC S18) creates personal wealth management tools for Africans.
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/Cowrywise/uptime).
+  introMessage: This is a status page uses **real-time** data from our [GitHub repository](https://github.com/Cowrywise/uptime).
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website 
+      href: https://cowrywise.com/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
