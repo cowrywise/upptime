@@ -49,7 +49,7 @@
     "time": 2945,
     "timeDay": 1548,
     "timeWeek": 1661,
-    "timeMonth": 3306,
+    "timeMonth": 2887,
     "timeYear": 2945,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 3207,
     "timeDay": 1472,
     "timeWeek": 1442,
-    "timeMonth": 3416,
+    "timeMonth": 3291,
     "timeYear": 3207,
     "dailyMinutesDown": {}
   },
@@ -94,7 +94,7 @@
     "url": "https://www.cowrywise.com/blog/",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
