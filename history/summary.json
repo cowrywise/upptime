@@ -94,17 +94,17 @@
     "url": "https://www.cowrywise.com/blog/",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1724,
-    "timeDay": 470,
-    "timeWeek": 2504,
-    "timeMonth": 1308,
-    "timeYear": 1724,
+    "time": 1716,
+    "timeDay": 639,
+    "timeWeek": 2365,
+    "timeMonth": 1298,
+    "timeYear": 1716,
     "dailyMinutesDown": {}
   }
 ]
