@@ -40,7 +40,7 @@
     "url": "https://cowrywise.com/@othreecodes/badges/savings-score",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-badges-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 2648,
     "timeDay": 9169,
-    "timeWeek": 3894,
+    "timeWeek": 4128,
     "timeMonth": 2982,
     "timeYear": 2648,
     "dailyMinutesDown": {}
