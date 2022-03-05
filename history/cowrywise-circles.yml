@@ -1,7 +1,7 @@
 url: https://cowrywise.com/circles/challenges
-status: up
-code: 200
-responseTime: 23
-lastUpdated: 2022-03-04T23:49:46.403Z
+status: down
+code: 504
+responseTime: 10076
+lastUpdated: 2022-03-05T00:21:30.235Z
 startTime: Mon May 24 2021 23:12:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
