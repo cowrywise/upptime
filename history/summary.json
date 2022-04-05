@@ -13,7 +13,7 @@
     "time": 797,
     "timeDay": 512,
     "timeWeek": 319,
-    "timeMonth": 2487,
+    "timeMonth": 2054,
     "timeYear": 797,
     "dailyMinutesDown": {}
   },
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 3223,
     "timeDay": 4105,
-    "timeWeek": 6642,
+    "timeWeek": 6677,
     "timeMonth": 5409,
     "timeYear": 3223,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://cowrywise.com/circles/challenges",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-circles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 2103,
     "timeDay": 1135,
     "timeWeek": 1161,
-    "timeMonth": 2567,
+    "timeMonth": 2248,
     "timeYear": 2103,
     "dailyMinutesDown": {}
   },
@@ -103,7 +103,7 @@
     "time": 1485,
     "timeDay": 955,
     "timeWeek": 905,
-    "timeMonth": 2821,
+    "timeMonth": 2429,
     "timeYear": 1485,
     "dailyMinutesDown": {}
   }
