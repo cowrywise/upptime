@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 3224,
     "timeDay": 4662,
-    "timeWeek": 3044,
+    "timeWeek": 3243,
     "timeMonth": 2720,
     "timeYear": 3224,
     "dailyMinutesDown": {}
@@ -58,7 +58,7 @@
     "url": "https://cowrywise.com/circles/challenges",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-circles",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
