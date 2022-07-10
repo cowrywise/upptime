@@ -40,17 +40,17 @@
     "url": "https://cowrywise.com/@othreecodes/badges/savings-score",
     "icon": "https://cowrywise.com/favicon.png",
     "slug": "cowrywise-badges-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3362,
-    "timeDay": 1907,
-    "timeWeek": 2907,
+    "time": 3356,
+    "timeDay": 1876,
+    "timeWeek": 2909,
     "timeMonth": 4367,
-    "timeYear": 3415,
+    "timeYear": 3409,
     "dailyMinutesDown": {}
   },
   {
@@ -104,7 +104,7 @@
     "timeDay": 320,
     "timeWeek": 340,
     "timeMonth": 353,
-    "timeYear": 1436,
+    "timeYear": 1301,
     "dailyMinutesDown": {}
   }
 ]
